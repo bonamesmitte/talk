@@ -5,6 +5,7 @@ import Navbar from './components/Navbar';
 import Interview from './components/Interview';
 import Cards from './components/Cards';
 import Directory from './components/Directory';
+import Bottom from './components/Bottom';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Interview />
       <Cards />
       <Directory />
+      <Bottom />
     </div>
   );
 }
