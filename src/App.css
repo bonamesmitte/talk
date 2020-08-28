@@ -48,6 +48,7 @@ header #menu {
 
 #nav a {
   color: black;
+  padding: 27px;
 }
 
 .left h3 {
@@ -84,18 +85,18 @@ h3 {
 .second {
   border: 1px solid white;
   border-bottom-color: lightgrey;
-  padding-bottom: 20px;
+  padding-bottom: 35px;
 }
 
 #card {
   display: flex;
   justify-content: space-evenly;
-  margin-top: 10px;
+  margin-top: 17px;
 }
 
 .third {
   padding-bottom: 5px;
-  padding-top: 15px;
+  padding-top: 30px;
 }
 
 #card p {
