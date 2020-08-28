@@ -42,7 +42,7 @@ const Navbar = () => (
           </li>
 
           <li>
-            <div id="rolex">
+            <div id="rolex" style={{ position: 'absolute', right: 0 }}>
               <a href="https://www.rolex.org/?cmpid=dsp_ROLEX_INTL_The-Talks_2020_INTL_rlx2001030">
                 <img
                   src="https://the-talks.com/wp-content/themes/thetalks/img/rolex_logo_new@2x.png"
