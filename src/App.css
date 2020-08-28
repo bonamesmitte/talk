@@ -139,10 +139,20 @@ h3 {
 }
 
 #bottom p {
-  text-align: center;
   color: black;
   font-weight: bold;
   display: inline-flex;
   justify-content: center;
   padding-right: 10px;
+}
+
+.bottom {
+  text-align: center;
+}
+
+#last {
+  border: 1px solid white;
+  border-top-color: lightgrey;
+  padding-top: 10px;
+  padding-bottom: 30px;
 }
