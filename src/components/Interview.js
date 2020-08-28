@@ -173,10 +173,6 @@ const Interview = () => (
       <div className="third">
         <h5>RELATED INTERVIEWS</h5>
       </div>
-
-      <div className="fourth">
-        <h5>INTERVIEW DIRECTORY</h5>
-      </div>
     </div>
   </section>
 );

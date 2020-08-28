@@ -4,6 +4,7 @@ import 'semantic-ui-css/semantic.min.css';
 import Navbar from './components/Navbar';
 import Interview from './components/Interview';
 import Cards from './components/Cards';
+import Directory from './components/Directory';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Navbar />
       <Interview />
       <Cards />
+      <Directory />
     </div>
   );
 }
